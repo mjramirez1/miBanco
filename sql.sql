@@ -1,0 +1,1 @@
+CREATE TABLE transacciones(descripcion VARCHAR(50), fecha VARCHAR(10), monto DECIMAL, cuenta INT);
